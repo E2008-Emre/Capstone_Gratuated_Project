@@ -1,1 +1,1 @@
-# Capstone_Gratuated_Project
+# This repo contains Capstone Gratuated Project
